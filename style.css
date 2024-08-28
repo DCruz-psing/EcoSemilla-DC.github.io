@@ -1,0 +1,18 @@
+
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eco Galería</title>
+    <style>
+
+        .eco-gallery img {
+            width: 120px;
+            height: 120px; 
+            border-radius: 50%;
+            object-fit: cover;
+            margin: 5px; 
+        }
+    </style>
+
+
